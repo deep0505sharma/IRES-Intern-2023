@@ -21,21 +21,24 @@ A detailed section for each of these can be found below.
 
 # Summer Activity Record
 
-For generating the question we used Flan-Alpaca-Large / Llama 2 which are open-source models but for them to be used we had to fine-tune them. This was done by using a custom dataset which was made for scratch. The dataset contained the type of question to be generated and then the question to be generated
+This file contains all the information related to the activities we have performed during the internship on the day-to-day basis.
 
-The fine-tuning was a major huddle as using an untrained model would result in the question being used to not have depth to them. 
-
-The link for the custom dataset is [here](https://docs.google.com/spreadsheets/d/1K8H9LTCcvwUZwM5rkI62FLiknmnl_as5Kw0jyJdGBBI/edit?usp=sharinghttps://docs.google.com/spreadsheets/d/1K8H9LTCcvwUZwM5rkI62FLiknmnl_as5Kw0jyJdGBBI/edit?usp=sharing)
+The file is uploaded in the files section of this repo or you can found it [here](https://drive.google.com/file/d/1yXU9z31l7WSXbaFQutwkcJM8-q3nAcoF/view?usp=sharing)
 
 # Project Report IRES
 
-This was one of the biggest tasks that had to be handled. The model not only had to convert speech to text but it also had to be efficient enough for it to not cause a bottleneck. Thus we decided to use OpenAI's whisper model. With this model, we were able to convert speech to text.
+This is the technical report created by me that contains all the relevant information about the project i.e. the data preprocessing tasks, the activities performed, laboratory visits, algorithms that were used, and the results and the challenges faced.
+
+The file is uploaded in the GitHub files section of this repo or you can access it by clicking [here](https://drive.google.com/file/d/1yXU9z31l7WSXbaFQutwkcJM8-q3nAcoF/view?usp=sharing)
 
 
 # Models Used
 
-
-Hiii
+1) 3Dprinter.ipynb :- this code file uploaded contains the data preprocessing steps involved in the project.
+2) LR.ipynb :- this code files contains the Linear Regressions, Lasso Regression, and Elastic regression algorithms used to predict the output.
+3) RandomForest.ipynb :- Random Forest algorithm used to predict the output.
+4) DecisionTree.ipynb:- Decision tree is also chosen to perform the task.
+5) UsingANN.ipynb :- Finally, ANN was also deployed to perform the task.
 
 
 # Result
@@ -45,6 +48,9 @@ hiii
 
 # Poster
 
-hiii
+Finally, we have made a poster for the IRES intern 2023.
+You can access it in github repo files or [her](https://docs.google.com/presentation/d/1GJF5olulX2AX4xALJGmcXBGbDy9CUfNR/edit?usp=sharing&ouid=102732792480243813598&rtpof=true&sd=true)
 
 # Activity Files
+
+This folder contains all the assignments or tasks  we have been given to perform during the internship. 
